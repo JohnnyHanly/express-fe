@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import placeholderPoster from "../../assets/placeholder-poster.png";
+import placeholderPoster from "../../assets/images/placeholder-poster.png";
 import axios from "axios";
 import "./MoveCard.css";
 

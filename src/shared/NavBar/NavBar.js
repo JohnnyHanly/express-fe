@@ -11,7 +11,7 @@ export class NavBar extends React.Component {
     return (
       <div className="navbar-container">
         <div className="navBarTitle">
-          <h1>Movie Sluts</h1>
+          <h1>Movie Site</h1>
         </div>
 
         <ul className="navLinks">

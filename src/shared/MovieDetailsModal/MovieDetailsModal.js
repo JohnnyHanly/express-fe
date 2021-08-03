@@ -1,6 +1,6 @@
 import React from "react";
 import ColorThief from "colorthief";
-import placeholderPoster from "../../assets/placeholder-poster.png";
+import placeholderPoster from "../../assets/images/placeholder-poster.png";
 import "./MoveDetailsModal.css";
 export class MovieDetailsModal extends React.Component {
   constructor(props) {
