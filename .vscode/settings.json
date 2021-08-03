@@ -1,0 +1,7 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 24,
+  "explorer.decorations.badges": false,
+  "workbench.colorCustomizations": {}
+}

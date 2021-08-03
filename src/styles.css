@@ -1,0 +1,15 @@
+body,
+html {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+.App {
+  min-height: 100vh;
+  background: white;
+  position: relative;
+  z-index: 1;
+  box-shadow: 0 2rem 4rem #000;
+  font: 16px/1.4 system-ui, sans-serif;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,9 @@
+{
+  "pro": false,
+  "useWsl": true,
+  "node": "~/.nvm/versions/node/v14.17.3/bin/node",
+  "babel": true,
+  "plugins": [
+    "jsdom-quokka-plugin"
+  ]
+}
